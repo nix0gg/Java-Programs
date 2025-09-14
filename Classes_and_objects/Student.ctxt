@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Student
+comment1.params=
+comment1.target=Student()
+comment2.params=nm\ ag\ mk1\ mk2\ mk3
+comment2.target=Student(java.lang.String,\ int,\ int,\ int,\ int)
+comment3.params=
+comment3.target=void\ Input()
+comment4.params=
+comment4.target=void\ Compute()
+comment5.params=
+comment5.target=void\ Display()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
